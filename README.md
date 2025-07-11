@@ -4,7 +4,7 @@
 
 #Run the application using the command:
 
-python aes_encryption_tool.py
+python encrypt_tool.py
 
 
 Using the GUI:
