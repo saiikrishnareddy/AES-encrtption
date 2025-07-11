@@ -1,10 +1,10 @@
 # Install requirements using:
 
-  pip install pycryptodome
+  pip3 install pycryptodome
 
 #Run the application using the command:
 
-python encrypt_tool.py
+python3 encrypt_tool.py
 
 
 Using the GUI:
